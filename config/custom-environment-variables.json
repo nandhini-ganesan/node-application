@@ -1,3 +1,4 @@
 {
-    "DigitalSignatureKey" : "vidly_key"
+    "DigitalSignatureKey" : "vidly_key",
+    "DB" : "db_in_production_env"
 }
