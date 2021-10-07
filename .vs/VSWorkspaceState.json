@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\startup",
+    "\\test",
+    "\\test\\integration",
+    "\\test\\unit",
+    "\\test\\unit\\schema"
+  ],
+  "SelectedNode": "\\startup\\db_connection.js",
+  "PreviewInSolutionExplorer": false
+}
