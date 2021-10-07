@@ -1,4 +1,4 @@
 {
     "DigitalSignatureKey" : "vidly_key",
-    "DB" : "genres-project"
+    "DB" : "db_in_production_env"
 }
