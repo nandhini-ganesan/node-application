@@ -10,7 +10,7 @@ Implementation of the above functionalities required understanding of the follow
   * RESTful services
   * Necessity of middlewares
   * Database integration using MongoDB
-  * Authentication and authorization using frameworks
+  * Authentication and authorization using webtokens
   * JSON documents
   * Handling exceptions
   * Testing
